@@ -1,4 +1,6 @@
-# wallet
+# Vue Solana Wallet
+
+Porting the solana react wallet to vue. 
 
 ## Project setup
 ```
